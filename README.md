@@ -1,6 +1,7 @@
 # Knowledge Neurons in PreTrained Transformers
 
-This code is an implementation following the orignal paper "Knowledge Neurons in PreTrained Transformers" and its github repo (links below). 
+This code is an implementation of the orignal paper "Knowledge Neurons in PreTrained Transformers" adapted from its github repo (links below). 
+
 https://arxiv.org/abs/2104.08696 (paper)
 https://github.com/Hunter-DDM/knowledge-neurons (repo)
 
