@@ -1,7 +1,11 @@
 # Knowledge Neurons in PreTrained Transformers
 
-This code is an implementation following the orignal paper "Knowledge Neurons in PreTrained Transformers" (link below). 
-https://arxiv.org/abs/2104.08696
+This code is an implementation following the orignal paper "Knowledge Neurons in PreTrained Transformers" and its github repo (links below). 
+https://arxiv.org/abs/2104.08696 (paper)
+https://github.com/Hunter-DDM/knowledge-neurons (repo)
+
+
+
 
 It focus on the identification of specific knowledge neurons (KN) in the transformer's FFN that can be altered to edit and update knowledge facts.
 

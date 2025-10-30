@@ -6,6 +6,7 @@ results/*
 data/LAMA*
 data/Bing*
 data/PARAREL/**
+.vscode/*
 !data/PARAREL/data_all_allbags.json
 !data/PARAREL/data_all.json
 original_paper_code*
