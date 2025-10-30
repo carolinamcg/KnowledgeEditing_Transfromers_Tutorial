@@ -1,0 +1,12 @@
+*.png
+*.jsonl
+*.pyc
+*__pycache__*
+results/*
+data/LAMA*
+data/Bing*
+data/PARAREL/**
+!data/PARAREL/data_all_allbags.json
+!data/PARAREL/data_all.json
+original_paper_code*
+bert-base-cased*
